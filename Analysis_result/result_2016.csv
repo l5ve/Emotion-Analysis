@@ -1,0 +1,97 @@
+title,artist,year,duration,dominant,Positive,Negative,Anger,Anticipation,Disgust,Fear,Joy,Sadness,Surprise,Trust
+Sorry,Justin Bieber,2016,201,Joy,15,6,1,2,3,1,12,5,5,11
+One Dance,Drake Featuring WizKid & Kyla,2016,167,Anticipation,24,2,2,22,1,5,16,1,4,14
+Work,Rihanna Featuring Drake,2016,220,Disgust,34,49,17,12,25,17,8,20,7,7
+Stressed Out,twenty one pilots,2016,226,Anticipation,35,21,15,36,3,3,29,13,18,27
+Panda,Desiigner,2016,248,Trust,32,48,18,21,19,23,15,19,9,27
+Hello,Adele,2016,296,Anticipation,5,2,0,7,0,0,3,1,4,4
+Don't Let Me Down,The Chainsmokers Featuring Daya,2016,208,Surprise,7,7,6,6,5,6,7,6,10,7
+Can't Stop The Feeling!,Justin Timberlake,2016,286,Joy,62,6,2,10,0,2,59,4,14,55
+Closer,The Chainsmokers Featuring Halsey,2016,244,Sadness,20,10,5,5,1,5,8,22,8,8
+Cheap Thrills,Sia Featuring Sean Paul,2016,212,Joy,86,24,24,42,8,24,65,8,27,22
+7 Years,Lukas Graham,2016,238,Anticipation,19,14,6,15,7,5,15,9,6,11
+Needed Me,Rihanna,2016,192,Anger,15,22,18,6,12,8,11,7,5,10
+My House,Flo Rida,2016,192,Anticipation,24,10,11,19,2,8,14,1,9,14
+I Took A Pill In Ibiza,Mike Posner,2016,198,Trust,16,4,1,7,1,1,11,5,3,16
+Work From Home,Fifth Harmony Featuring Ty Dolla $ign,2016,214,Anticipation,7,5,1,4,0,4,4,2,1,3
+This Is What You Came For,Calvin Harris Featuring Rihanna,2016,222,Anger,5,6,10,9,0,9,5,1,6,0
+Cake By The Ocean,DNCE,2016,220,Anticipation,42,23,14,19,12,12,19,14,12,12
+Ride,twenty one pilots,2016,215,Anticipation,9,6,2,17,2,4,6,4,2,5
+Heathens,twenty one pilots,2016,218,Fear,8,25,8,14,8,22,8,5,7,10
+Pillowtalk,Zayn,2016,202,Fear,9,33,14,1,8,30,6,6,3,1
+Stitches,Shawn Mendes,2016,207,Anticipation,21,18,2,15,0,5,12,14,13,5
+Hotline Bling,Drake,2016,296,Sadness,11,19,1,2,2,1,11,15,8,4
+Cold Water,Major Lazer Featuring Justin Bieber & MO,2016,186,Anticipation,14,7,2,9,1,3,8,2,5,6
+Send My Love (To Your New Lover),Adele,2016,224,Anticipation,32,9,9,31,8,16,27,9,8,16
+Roses,The Chainsmokers Featuring Rozes,2016,226,Joy,5,4,1,3,2,1,4,2,1,3
+Treat You Better,Shawn Mendes,2016,188,Anticipation,16,17,10,14,13,6,10,10,6,14
+Too Good,Drake Featuring Rihanna,2016,256,Anticipation,42,6,5,34,4,5,34,6,22,30
+Low Life,Future Featuring The Weeknd,2016,314,Anger,17,36,23,7,17,19,11,15,6,10
+What Do You Mean?,Justin Bieber,2016,206,Anticipation,7,8,3,7,0,0,6,4,4,1
+The Hills,The Weeknd,2016,243,Trust,22,4,3,7,3,5,9,4,0,17
+Just Like Fire,P!nk,2016,216,Fear,4,17,9,9,1,24,2,2,2,0
+Broccoli,D.R.A.M. Featuring Lil Yachty,2016,226,Disgust,21,30,18,7,19,9,11,7,8,9
+Don't,Bryson Tiller,2016,198,Joy,19,10,6,7,8,7,12,6,8,9
+Dangerous Woman,Ariana Grande,2016,236,Anger,11,61,47,4,15,11,6,6,0,6
+Jumpman,Drake & Future,2016,205,Disgust,19,29,9,7,13,11,10,6,7,13
+I Hate U I Love U,gnash Featuring Olivia O'Brien,2016,226,Fear,20,24,18,10,17,22,17,18,5,5
+Here,Alessia Cara,2016,199,Joy,11,14,4,9,4,3,10,4,6,7
+Same Old Love,Selena Gomez,2016,229,Joy,33,29,3,3,24,2,33,24,7,5
+Controlla,Drake,2016,246,Sadness,11,17,7,6,6,7,7,12,4,7
+Like I'm Gonna Lose You,Meghan Trainor Featuring John Legend,2016,226,Joy,25,15,14,10,14,15,21,15,17,6
+One Call Away,Charlie Puth,2016,195,Joy,16,2,1,3,1,2,16,2,3,14
+Let It Go,James Bay,2016,262,Surprise,3,13,4,3,0,7,0,6,8,1
+No,Meghan Trainor,2016,214,Disgust,9,6,0,2,6,1,6,0,2,6
+Never Forget You,Zara Larsson & MNEK,2016,214,Fear,8,30,1,7,0,24,8,22,1,1
+Let Me Love You,DJ Snake Featuring Justin Bieber,2016,203,Joy,23,4,2,5,2,2,21,3,4,4
+Don't Mind,Kent Jones,2016,198,Joy,26,3,0,6,0,0,14,2,5,10
+H.O.L.Y.,Florida Georgia Line,2016,195,Joy,56,10,4,10,2,6,27,11,10,13
+We Don't Talk Anymore,Charlie Puth Featuring Selena Gomez,2016,218,Joy,34,14,1,3,5,5,14,5,2,9
+Into You,Ariana Grande,2016,245,Joy,17,22,4,10,0,6,17,3,0,3
+Gold,Kiiara,2016,225,Joy,59,4,2,3,0,3,34,3,6,9
+Exchange,Bryson Tiller,2016,194,Trust,21,11,4,15,4,9,9,3,8,17
+679,Fetty Wap Featuring Remy Boyz,2016,188,Joy,27,16,10,11,8,8,13,4,8,9
+Oui,Jeremih,2016,239,Joy,19,6,5,11,4,3,14,3,1,9
+Hands To Myself,Selena Gomez,2016,200,Joy,6,1,0,1,1,0,5,0,1,2
+2 Phones,Kevin Gates,2016,240,Anger,22,20,22,16,12,14,17,12,16,16
+Starboy,The Weeknd Featuring Daft Punk,2016,231,Joy,36,22,11,13,2,13,21,17,5,15
+For Free,DJ Khaled Featuring Drake,2016,184,Anticipation,18,6,3,15,3,2,12,2,4,12
+Never Be Like You,Flume Featuring Kai,2016,235,Sadness,9,20,4,0,5,7,6,15,1,3
+In The Night,The Weeknd,2016,251,Sadness,8,15,2,7,3,4,7,8,2,7
+Me Too,Meghan Trainor,2016,182,Joy,13,0,0,7,0,4,12,0,0,8
+Ex's & Oh's,Elle King,2016,203,Fear,6,11,1,3,2,6,5,5,5,3
+Die A Happy Man,Thomas Rhett,2016,244,Joy,32,11,2,14,0,11,26,12,3,12
+White Iverson,Post Malone,2016,257,Anticipation,23,21,19,28,6,23,14,7,7,14
+Close,Nick Jonas Featuring Tove Lo,2016,235,Disgust,10,17,8,0,10,8,1,1,3,9
+Unsteady,X Ambassadors,2016,193,Fear,5,2,1,1,0,14,5,1,0,1
+Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",2016,244,Sadness,17,86,37,15,20,45,7,59,5,8
+Luv,Tory Lanez,2016,228,Joy,46,24,7,12,1,1,44,17,0,1
+Sorry,Beyonce,2016,233,Joy,15,6,1,2,3,1,12,5,5,11
+Can't Feel My Face,The Weeknd,2016,219,Joy,21,11,3,8,3,9,21,9,2,0
+Hymn For The Weekend,Coldplay,2016,258,Fear,18,14,13,8,0,14,10,1,2,3
+Say It,Tory Lanez,2016,237,Joy,32,12,3,12,2,2,20,1,7,14
+Antidote,Travis Scott,2016,263,Trust,11,12,7,14,5,5,3,6,2,33
+Lost Boy,Ruth B,2016,254,Disgust,19,46,22,6,42,21,13,21,24,9
+Side To Side,Ariana Grande Featuring Nicki Minaj,2016,227,Joy,19,22,10,7,11,8,15,5,7,5
+"Sit Still, Look Pretty",Daya,2016,202,Trust,36,14,7,35,3,11,34,4,7,36
+Wildest Dreams,Taylor Swift,2016,221,Anticipation,16,9,4,10,4,4,6,6,4,6
+Middle,DJ Snake Featuring Bipolar Sunshine,2016,221,Anticipation,12,4,2,11,3,2,10,3,3,6
+On My Mind,Ellie Goulding,2016,214,Disgust,13,18,8,3,10,7,6,4,1,5
+Pop Style,Drake Featuring The Throne,2016,214,Disgust,21,26,9,8,10,4,5,5,9,7
+When We Were Young,Adele,2016,291,Anticipation,18,10,5,20,3,13,16,8,15,4
+Hide Away,Daya,2016,192,Joy,30,22,2,27,18,18,28,2,25,27
+Lean On,Major Lazer & DJ Snake Featuring MO,2016,176,Fear,16,12,12,16,0,24,13,0,13,1
+I Know What You Did Last Summer,Shawn Mendes & Camila Cabello,2016,224,Trust,8,11,4,5,4,3,6,6,5,8
+Watch Me,Silento,2016,186,Fear,4,37,18,77,12,83,4,6,20,4
+Back To Sleep,Chris Brown,2016,202,Joy,36,12,4,4,3,0,12,5,0,5
+No Limit,Usher Featuring Young Thug,2016,229,Joy,37,27,15,2,16,17,24,20,6,9
+Cut It,O.T. Genasis Featuring Young Dolph,2016,223,Anger,14,14,16,9,5,4,12,4,10,12
+Really Really,Kevin Gates,2016,233,Joy,44,30,23,13,19,17,28,22,11,18
+All In My Head (Flex),Fifth Harmony Featuring Fetty Wap,2016,210,Joy,19,7,1,7,1,3,12,4,1,1
+Starving,Hailee Steinfeld & Grey Featuring Zedd,2016,182,Anger,4,6,6,1,3,6,0,2,3,0
+Adventure Of A Lifetime,Coldplay,2016,251,Anticipation,18,6,0,13,2,4,13,3,2,10
+Humble And Kind,Tim McGraw,2016,259,Joy,37,21,9,9,16,2,22,15,3,17
+Wicked,Future,2016,174,Fear,10,82,11,3,7,79,5,6,2,6
+Tiimmy Turner,Desiigner,2016,240,Sadness,10,42,36,5,12,34,8,37,6,3
+See You Again,Wiz Khalifa Featuring Charlie Puth,2016,229,Joy,17,7,6,10,3,3,11,3,5,10
+Perfect,One Direction,2016,231,Joy,37,2,0,26,0,0,36,2,4,24
